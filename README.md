@@ -16,12 +16,9 @@ Sou um recém-licenciado apaixonado por tecnologia e pela criação de soluçõe
 
 ### 📊 As Minhas Estatísticas
 
-*(Nota: Se as imagens abaixo não carregarem de imediato, pode ser devido aos limites do servidor que gera os gráficos. Atualizar a página normalmente resolve!)*
+![Estatísticas do Rodrigo](https://github-readme-stats.vercel.app/api?username=Rabreu01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&v=2)
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rabreu01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabreu01&layout=compact&langs_count=5&theme=tokyonight&hide_border=true" />
-</p>
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabreu01&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&v=2)
 
 ### 📬 Onde me podes encontrar
 
