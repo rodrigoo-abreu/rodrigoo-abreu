@@ -16,9 +16,10 @@ Sou um recém-licenciado apaixonado por tecnologia e pela criação de soluçõe
 
 ### 📊 As Minhas Estatísticas
 
-![Estatísticas do Rodrigo](https://github-readme-stats.vercel.app/api?username=rodrigoo-abreu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&v=2)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoo-abreu&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&v=2)
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoo-abreu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&v=2" alt="Estatísticas do Rodrigo"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoo-abreu&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&v=2" alt="Linguagens mais usadas"/>
+</p>
 
 ### 📬 Onde me podes encontrar
 
