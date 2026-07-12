@@ -35,15 +35,16 @@
   <a href="mailto:rodrigoabreu.s18@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats:
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=rodrigoo-abreu&show_icons=true&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=rodrigoo-abreu&layout=compact&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rodrigoo-abreu&show_icons=true&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true" alt="Estatísticas Gerais" height="180px" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=rodrigoo-abreu&layout=compact&theme=tokyonight&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true&langs_count=8" alt="Linguagens Mais Usadas" height="180px" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigoo-abreu&bg_color=00000000&color=0891b2&line=0891b2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigoo-abreu&bg_color=00000000&color=0891b2&line=0891b2&point=c9d1d9&area=true&hide_border=true&days=365" alt="activity graph" />
 </p>
