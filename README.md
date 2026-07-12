@@ -4,7 +4,7 @@
   </a>
 </p>
 
-> Sou um recém-licenciado profundamente dedicado ao setor tecnológico e ao desenvolvimento de soluções eficientes. Encontro-me focado na implementação de projetos que unem a precisão da engenharia à gestão de sistemas, em constante busca por desafios e oportunidades de progressão profissional na área de desenvolvimento.
+> Sou licenciado em Engenharia e Gestão de Sistemas de Informação (LEGSI) pela Universidade do Minho, profundamente dedicado ao setor tecnológico e ao desenvolvimento de soluções eficientes. Encontro-me focado na implementação de projetos que unem a precisão da engenharia à gestão de sistemas, em constante busca por desafios e oportunidades de progressão profissional na área de desenvolvimento.
 
 ### 🛠️ Tech Stack
 
